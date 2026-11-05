@@ -1,0 +1,11 @@
+{
+  "name": "team007-bot-runner",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node runner.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
